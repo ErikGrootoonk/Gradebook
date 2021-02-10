@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\visualstudio\\gradebook\\src\\Gradebook\\Gradebook.csproj": {}
+    "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {}
   },
   "projects": {
-    "C:\\visualstudio\\gradebook\\src\\Gradebook\\Gradebook.csproj": {
+    "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visualstudio\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectUniqueName": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
         "projectName": "Gradebook",
-        "projectPath": "C:\\visualstudio\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectPath": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
         "packagesPath": "C:\\Users\\egrooto1\\.nuget\\packages\\",
-        "outputPath": "C:\\visualstudio\\gradebook\\src\\Gradebook\\obj\\",
+        "outputPath": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\egrooto1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
