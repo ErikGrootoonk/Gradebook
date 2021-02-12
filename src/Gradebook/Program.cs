@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Gradebook
+namespace GradeBook
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var book = new Book("Erik's Grade Book");
+            IBook book = new DiskBook("Erik's Grade Book");
             book.GradeAdded += OnGradeAdded;
 
             EnterGrades(book);
@@ -19,17 +19,16 @@ namespace Gradebook
             Console.WriteLine($"The highest grade is {stats.High}");
             Console.WriteLine($"The average grade is {stats.Average:N1}");
             Console.WriteLine($"The letter grade is {stats.Letter}");
-
         }
 
-        private static void EnterGrades(Book book)
+        private static void EnterGrades(IBook book)
         {
             while (true)
             {
-                Console.WriteLine("Please enter a grade, when ready press q");
+                Console.WriteLine("Enter a grade or 'q' to quit");
                 var input = Console.ReadLine();
-                if (input == "q")
 
+                if (input == "q")
                 {
                     break;
                 }
@@ -47,6 +46,10 @@ namespace Gradebook
                 {
                     Console.WriteLine(ex.Message);
                 }
+                finally
+                {
+                    Console.WriteLine("**");
+                }
             }
         }
 
@@ -54,5 +57,6 @@ namespace Gradebook
         {
             Console.WriteLine("A grade was added");
         }
+
     }
 }
