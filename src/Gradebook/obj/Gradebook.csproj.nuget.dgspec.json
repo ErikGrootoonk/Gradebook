@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {}
+    "E:\\Git\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {
+    "E:\\Git\\Gradebook\\src\\Gradebook\\Gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectUniqueName": "E:\\Git\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
         "projectName": "Gradebook",
-        "projectPath": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
-        "packagesPath": "C:\\Users\\egrooto1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egrooto1\\source\\Gradebook\\src\\Gradebook\\obj\\",
+        "projectPath": "E:\\Git\\Gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "packagesPath": "C:\\Users\\erikg\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\Gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\egrooto1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erikg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

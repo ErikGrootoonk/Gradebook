@@ -22,3 +22,16 @@ C:\Users\egrooto1\source\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebo
 C:\Users\egrooto1\source\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.dll
 C:\Users\egrooto1\source\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.pdb
 C:\Users\egrooto1\source\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.genruntimeconfig.cache
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.exe
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.deps.json
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.json
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.dev.json
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.dll
+E:\Git\Gradebook\src\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.pdb
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.csprojAssemblyReference.cache
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfoInputs.cache
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfo.cs
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.csproj.CoreCompileInputs.cache
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.dll
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.pdb
+E:\Git\Gradebook\src\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.genruntimeconfig.cache
